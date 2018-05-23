@@ -1,3 +1,11 @@
 aula-sobre-git.txt
 
-Estamos na Ulbra aprendendo sobre github com ob professor Cassio
+Estamos na Ulbra aprendendo sobre github com o professor Cassio
+
+Comandos git para enviar para o Git Hub
+
+git add . (Adiciona os arquivos da pasta)
+git commit -m "descrição" (etiqueta do meu commit)
+git push (Envia ao github)
+
+
