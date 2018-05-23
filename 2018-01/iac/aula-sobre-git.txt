@@ -8,4 +8,7 @@ git add . (Adiciona os arquivos da pasta)
 git commit -m "descrição" (etiqueta do meu commit)
 git push (Envia ao github)
 
+mudei o email de davson_torres@hotmail.com para davson.silveira@ulbra.inf.br
+
+
 
